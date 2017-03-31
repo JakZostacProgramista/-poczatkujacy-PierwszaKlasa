@@ -47,7 +47,7 @@ public class Test {
     public static void main(String[] args) {
         double amount = 199;
         String title = "Przelew do ZUSu";
-        Przelew przelew = new Przelew(String, amount); // dodaj więcej pól do konstruktora
+        Przelew przelew = new Przelew(title, amount); // dodaj więcej pól do konstruktora
         przelew.wypiszDanePrzelewu();
     }
 }
