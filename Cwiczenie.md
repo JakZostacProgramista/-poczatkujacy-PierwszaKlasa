@@ -24,7 +24,7 @@ Każde pole, które znajdziesz w formularzu przelewu np. kwota, tytuł przelew, 
 
 # O METODACH KLASY:
 W ramach ćwiczenia stwórz metodę o nazwie `wypiszDanePrzelewu()` lub `printWireTransfer()`, która podobnie jak w przypadku pierwszego programu 
-`HelloWorldApp` wypisze wartości coś w konsoli.
+`HelloWorldApp` wypisze coś w konsoli.
 
 Szablon dla twojej klasy:
 ```java
