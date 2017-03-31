@@ -9,7 +9,7 @@ Pierwsza klasa dla początkujących.
 
 # MATERIAŁY:
 Materiały na YouTube'ie. Wszystkie lekcje, ale przede wszystkim: [Jak Zostać Programistą Java - lekcja 5: Typy Proste (Prymitywne)](https://www.youtube.com/watch?v=6JPRtoGIaeE)
-Twoim największym przyjaciele jest Google. Jeśli czegoś nie wiesz to zapytaj Google. Przydatne hasła: 
+Twoim największym przyjacielem jest Google. Jeśli czegoś nie wiesz to zapytaj Google. Przydatne hasła: 
   * "Metody w Javie", 
   * "Jak stworzyc klasę w Javie"
   * "Pola w klasie"
